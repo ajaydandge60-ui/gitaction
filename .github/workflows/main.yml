@@ -3,7 +3,7 @@ name: git action pipline
 on:
     push:
         branches:
-            -main
+            - main
 
 jobs:
     demo-job:
